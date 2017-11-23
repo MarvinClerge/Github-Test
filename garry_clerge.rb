@@ -1,6 +1,6 @@
 def garry
 
 
-  puts "Hello Garry"
+  puts "Hello World"
 
 end
