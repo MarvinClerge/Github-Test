@@ -1,7 +1,7 @@
 def marvin
-#code here
+#code
 end
 
 def garry
-#code here
+#code
 end
